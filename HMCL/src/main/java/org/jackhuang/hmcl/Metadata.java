@@ -33,8 +33,8 @@ public final class Metadata {
     public static final String TITLE = NAME + " " + VERSION;
     
     public static final String UPDATE_URL = System.getProperty("hmcl.update_source.override", "");
-    public static final String CONTACT_URL = "https://hmcl.huangyuhui.net/contact";
-    public static final String HELP_URL = "https://hmcl.huangyuhui.net/help";
+    public static final String CONTACT_URL = "https://hmcl.huangyuhui.net/";
+    public static final String HELP_URL = "https://hmcl.huangyuhui.net/";
     public static final String CHANGELOG_URL = "https://hmcl.huangyuhui.net/changelog/";
     public static final String PUBLISH_URL = "http://www.mcbbs.net/thread-142335-1-1.html";
 
